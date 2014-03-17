@@ -1,0 +1,28 @@
+{
+  "name": "jsonschema-mapper",
+  "version": "0.0.1",
+  "description": "A json-schema to ORM mapper",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "json",
+    "schema",
+    "json-schema",
+    "orm",
+    "mapper"
+  ],
+  "author": "Robert Moore",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "URIjs": "~1.12.0"
+  }
+}
