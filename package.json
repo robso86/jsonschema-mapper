@@ -1,6 +1,6 @@
 {
   "name": "jsonschema-mapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A json-schema to ORM mapper",
   "main": "lib/main.js",
   "directories": {
@@ -12,6 +12,10 @@
   "devDependencies": {
     "mocha": "*",
     "should": "*"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/robso86/jsonschema-mapper.git"
   },
   "keywords": [
     "json",
